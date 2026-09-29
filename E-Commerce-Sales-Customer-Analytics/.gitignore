@@ -1,0 +1,16 @@
+# Power BI temporary files
+*.tmp
+*.pbit
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
